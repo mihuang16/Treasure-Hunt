@@ -1,0 +1,60 @@
+body {
+    text-align:center;
+    background:white;
+}
+
+h1 {
+    font-family: 'Caveat', cursive;
+    font-size:80px;
+}
+
+img {
+    width:300px;
+}
+
+button {
+    font-family: 'ZCOOL KuaiLe', cursive;
+}
+
+.hints {
+    color:black;
+    font-family: 'Caveat', cursive;
+}
+
+.trick {
+    color:red;
+    font-family: 'Special Elite', cursive;
+}
+
+.line {
+    font-family: 'Sacramento', cursive;
+    font-size:30px;
+}
+
+.firstline {
+    color:black;
+}
+
+.secondline {
+    color:black;
+}
+
+.thridline {
+    color:black;
+}
+
+.fourthline {
+    color:black;
+}
+
+.fifthline {
+    color:black;
+}
+
+.sixthline {
+    color:black;
+}
+
+.seventhline {
+    color:black;
+}
